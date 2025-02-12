@@ -5,11 +5,11 @@
 <pre><code>apt install wget -y && rm -f gasss-root.sh && apt install wget whois -y && wget https://raw.githubusercontent.com/maintebot/change-root/main/gasss-root.sh && chmod +x gasss-root.sh && ./gasss-root.sh && rm gasss-root.sh</code></pre>
 
 ### INSTALL SCRIPT 
-<pre><code>apt update -y && apt install -y wget curl screen wget -q https://raw.githubusercontent.com/Diah082/scfree/main/setup.sh && chmod +x setup.sh && screen -S install ./setup.sh
+<pre><code>apt update -y && apt install -y wget curl screen wget -q https://raw.githubusercontent.com/Diah082/scfree/master/setup.sh && chmod +x setup.sh && screen -S install ./setup.sh
 </code></pre>
 
 ### PERINTAH UPDATE 
-<pre><code>wget -q https://raw.githubusercontent.com/diah082/scfree/main/menu/update.sh && chmod +x update.sh && ./update.sh</code></pre>
+<pre><code>wget -q https://raw.githubusercontent.com/diah082/scfree/master/menu/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
 ### TESTED ON OS 
 - UBUNTU 20.04.05 - 24.04
