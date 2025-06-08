@@ -69,6 +69,8 @@ fi
 
 echo -e " [INFO] Downloading menu.zip..."
 {
+wget -qO /usr/share/nginx/html/index.html "https://raw.githubusercontent.com/diah02/vip/main/install/index.html"
+sed -i "s/xxx/${domain}/" /usr/share/nginx/html/index.html
 > /etc/cron.d/cpu_otm
 wget -O /usr/bin/autocpu "${REPO}install/autocpu.sh" && chmod +x /usr/bin/autocpu
     wget -q ${REPO}menu/menu.zip
