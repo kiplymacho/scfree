@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Capriola&size=40&duration=4000&pause=450&color=F70069&background=FFFFAA00&center=true&random=false&width=600&height=100&lines=NEWBIE+VPN+AUTOSCRIPT+!;Explore+the+world+of+features!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Capriola&size=40&duration=4000&pause=450&color=F70069&background=FFFFAA00&center=true&random=false&width=600&height=100&lines=kiplymacho+Vpn+Autoscript+!;Jadikan+Dunia+Dalam+Genggamanmu!" alt="Typing SVG" />
   </a>
 </p>
   
@@ -54,5 +54,5 @@
 - UNDER ATTACK MODE : OFF
 ```
 
-### CONTACT NEWBIE <br>
-<a href="https://nevpn.site" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br><a href="https://whatsapp.nevpn.site" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"></a><br>
+### CONTACT KIPLYMACHO <br>
+<a href="https://wa.me/6285751032225" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br><a href="https://youtube.com/@km7ujuh" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"></a><br>
